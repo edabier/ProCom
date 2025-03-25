@@ -24,7 +24,7 @@ To use this code, one need to have access to an annotated sentences dataset with
 
 We recommand running the code contained in the `final-deliverable` folder inside an environment containing the following libraries:
 
-'''
+''''
 transformers
 torch
 numpy
@@ -33,7 +33,7 @@ matplotlib
 seaborn
 pandas
 scikit-learn
-'''
+''''
 
 To install all the packages, do pip3 install -r requirements.txt.
 
