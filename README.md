@@ -35,7 +35,7 @@ pandas
 scikit-learn
 ```
 
-To install all the packages, do pip3 install -r requirements.txt.
+To install all the packages, do `pip3 install -r requirements.txt`.
 
 ### Running the code
 
